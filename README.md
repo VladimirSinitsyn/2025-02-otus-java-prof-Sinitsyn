@@ -1,14 +1,11 @@
-# 2025-02-otus-java-prof-Sinitsyn
-Java Developer. Professional
+# Примеры для курса OTUS ["Разработчик Java"](https://otus.ru/lessons/java-professional/?utm_source=github&utm_medium=free&utm_campaign=otus)
+
 
 Группа 2025-02
 
-Преподаватели
-Сергей Петрелевич
-Стрекалов Павел
-Александр Оруджев
-Вячеслав Лапин
+### Преподаватели
+Сергей Петрелевич<br>
+Стрекалов Павел<br>
+Александр Оруджев<br>
+Вячеслав Лапин<br>
 Евгений Непомнящий
-
-Студент 
-Синицын Владимир
