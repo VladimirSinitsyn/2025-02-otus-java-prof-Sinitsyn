@@ -1,5 +1,6 @@
 rootProject.name = "otusJava"
 include("L01-gradle")
+include("hw01-gradle")
 
 
 pluginManagement {
@@ -21,5 +22,7 @@ pluginManagement {
         id("com.google.protobuf") version protobufVer
         id("name.remal.sonarlint") version sonarlint
         id("com.diffplug.spotless") version spotless
+
     }
 }
+
